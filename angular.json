@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angprotest"
+    }
+  },
+  "defaultProject": "angprotest",
+  "cli": {
+    "analytics": "ebf8413b-9c91-4688-8474-bb31ea02fc46"
+  }
 }
